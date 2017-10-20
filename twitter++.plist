@@ -13,6 +13,12 @@
 					<key>url</key>
 					<string>https://dl.dropboxusercontent.com/content_link/WctV3dTXK0LSr7U8DoM9sSkyIJH6IuNqxDWpwFmUCBLecUlXFtImChxDUWlAvWKl/file?dl=1</string>
 				</dict>
+				<dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>https://abs.twimg.com/icons/apple-touch-icon-192x192.png</string>
+                </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
