@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+ <key>items</key>
+ <array>
+  <dict>
+   <key>assets</key>
+   <array>
+    <dict>
+     <key>kind</key>
+     <string>software-package</string>
+     <key>url</key> <string>https://dl.dropboxusercontent.com/content_link/JRHU9Mw6pWQlbMMxlYw5d4dh7nxQ1Ad39uSyHyF84AS78fgCbc5BsnImMnc52wDl/file?dl=1</string>
+    </dict>
+   </array>
+   <key>metadata</key>
+   <dict>
+    <key>bundle-identifier</key>
+    <string>com.spark.bobby</string>
+    <key>bundle-version</key>
+    <string>1.0</string>
+    <key>kind</key>
+    <string>software</string>
+    <key>title</key>
+    <string>App's Name</string>
+   </dict>
+  </dict>
+ </array>
+</dict>
+</plist>
