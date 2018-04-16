@@ -9,19 +9,20 @@
    <array>
     <dict>
      <key>kind</key>
-     <string>software-package</string> <key>https://raw.githubusercontent.com/iAppleHacker/isimplifyapp/master/bobbymoviespark.plist</key> <string>https://down.uploadfiles.io/get/b29ql</string>
+     <string>software-package</string>
+     <key>url</key> <string>https://archive.org/download/BobbyMovieV3.2.0_20180416/Bobby%20Movie%20%20%20v3.2.0.ipa</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
-    <string>com.spark.bobby</string>
+    <string>com.yoursigningservicename.appname</string>
     <key>bundle-version</key>
     <string>1.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <string>Bobby Movie</string>
+    <string>App's Name</string>
    </dict>
   </dict>
  </array>
